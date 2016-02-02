@@ -1,0 +1,17 @@
+{
+  "name": "travis-node",
+  "version": "1.0.0",
+  "devDependencies": {
+    "jshint": "^2.6.0"
+  },
+  "scripts": {
+    "test": "./node_modules/jshint/bin/jshint hello.js"
+  },
+  "description": "Learning Nodejs and travis together",
+  "repository": {
+    "type": "git",
+    "url": "git@github.wdf.sap.corp:I059223/travis-node.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
